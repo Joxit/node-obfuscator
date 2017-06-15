@@ -16,7 +16,7 @@
     "url": "git://github.com/stephenmathieson/node-obfuscator.git"
   },
   "dependencies": {
-    "uglify-es": "^2.0.0",
+    "uglify-es": "harmony-v2.8.21",
     "commander": "~2.0.0"
   },
   "devDependencies": {
