@@ -16,7 +16,7 @@
     "url": "git://github.com/stephenmathieson/node-obfuscator.git"
   },
   "dependencies": {
-    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#35bae3fcd061cf736878b1005df62de15b727224",
+    "uglify-js-harmony":"^2.7.7",
     "commander": "~2.0.0"
   },
   "devDependencies": {
